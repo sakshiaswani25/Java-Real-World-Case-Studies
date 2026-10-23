@@ -1,3 +1,5 @@
+//Write a Java program to demonstrate single inheritance using Person and Student classes. 
+//Accept and display personal and student details by overriding the displayDetails() method.
 import java.util.Scanner;
 public class PersonMain{
 	public static void main(String[] args){
