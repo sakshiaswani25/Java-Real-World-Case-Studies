@@ -1,3 +1,5 @@
+//Write a Java program to demonstrate single inheritance using BankAccount and SavingsAccount.Accept account details and 
+//interest rate,calculate interest,and override displayAccount()to display complete account information
 import java.util.Scanner;
 public class BankAccountIMain{
 	public static void main(String[] args){
