@@ -1,3 +1,6 @@
+//Write a Java program using an abstract class with salary and leave calculation methods. 
+//Implement Teaching, NonTeaching, and Adobe classes with their respective salary components, 12 annual leaves, 
+//and late-coming deductions.
 import java.util.Scanner;
 public class EmployeeAMain{
 	public static void main(String[] args){
