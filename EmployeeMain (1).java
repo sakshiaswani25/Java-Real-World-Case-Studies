@@ -1,3 +1,4 @@
+//Write a Java program to calculate net salary of employee using class
 public class EmployeeMain{
 	public static void main(String[]args){
 	int bs=Integer.parseInt(args[0]);
