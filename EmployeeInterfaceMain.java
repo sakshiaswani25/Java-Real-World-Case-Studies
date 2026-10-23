@@ -1,3 +1,5 @@
+//Write a Java program using an Employee Interface with salary and leave calculation methods.
+//Implement Teaching, NonTeaching, and Adobe classes with their respective salary components and late-mark leave deductions.	
 import java.util.Scanner;
 public class EmployeeInterfaceMain{
 	public static void main(String[] args){
