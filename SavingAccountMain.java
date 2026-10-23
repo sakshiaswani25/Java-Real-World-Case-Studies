@@ -1,3 +1,4 @@
+//Write a Java program to take savings account,interest rate,and tenure from the user and calculate the interest.
 import java.util.Scanner;
 public class SavingAccountMain{
 	public static void main(String[] args){
