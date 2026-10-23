@@ -6,28 +6,28 @@ public class PersonMain{
 	Scanner sc=new Scanner(System.in);
 	//School Student Class
 	SchoolStudent s1=new SchoolStudent();
-	s1.acceptPersonDetails("Disha",15);
-	s1.acceptStudentDetails(785543);
+	s1.acceptPersonDetails("Sakshi",15);
+	s1.acceptStudentDetails(785678);
 	s1.enterMarks();
 	s1.calculation();
 	s1.display();
 	//College Student Class
 	CollegeStudent s2=new CollegeStudent();
-	s2.acceptPersonDetails("Disha",18);
-	s2.acceptStudentDetails(250959);
+	s2.acceptPersonDetails("Sakshi",18);
+	s2.acceptStudentDetails(251952);
 	s2.enterMarks();
 	s2.calculation();
 	s2.display();
 	//Teaching Class
 	Teaching e1=new Teaching();
-	e1.acceptPersonDetails("Disha",45);
-	e1.acceptEmployeeDetails(3882);
+	e1.acceptPersonDetails("Sakshi",45);
+	e1.acceptEmployeeDetails(3880);
 	e1.calculation();
 	e1.display();
 	//Non Teaching Class
 	NonTeaching e2=new NonTeaching();
-	e2.acceptPersonDetails("Disha",34);
-	e2.acceptEmployeeDetails(5583);
+	e2.acceptPersonDetails("Sakshi",34);
+	e2.acceptEmployeeDetails(5584);
 	e2.calculation();
 	e2.display();
 	}
