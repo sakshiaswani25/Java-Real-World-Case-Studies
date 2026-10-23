@@ -1,3 +1,4 @@
+//Write a java program to generate restaurant bill only for tea and coffee using scanner class.
 import java.util.Scanner;
 public class RestaurentMain{
 	public static void main(String[] args){
