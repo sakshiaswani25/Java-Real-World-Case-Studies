@@ -1,4 +1,4 @@
-//Write a Java program to create a Car class with data members:company,model,fuel type,and price.Implement a default constructor
+//Write a Java program to create a class with data members:company,model,fuel type,and price.Implement a default constructor
 //and parameterized constructor Car(String company,String model)
 //and Car(String company,String model,String fuel,double price).
 import java.util.Scanner;
