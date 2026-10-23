@@ -19,7 +19,7 @@ class Employee{
 		total=0;
 		netSalary=0;
 		empId=1004;
-		name="Disha";
+		name="Sakshi";
 		dept="Accounts";
 	}
 	public void SalaryCalculation(){
