@@ -1,3 +1,5 @@
+//Write a Java program to demonstrate single inheritance using Employee and Manager classes. 
+//Override calculateSalary() to calculate total salary (salary + bonus) and displayDetails() to display complete manager information.
 import java.util.Scanner;
 public class EmployeeIMain{
 	public static void main(String[] args){
